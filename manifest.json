@@ -4,6 +4,8 @@
   "name": "Squirt for Chrome",
   "description": "Speed read the web, one word at a time.",
   "version": "0.1",
+  "icons": { "128": "logo.png" },
+
 
   "permissions": [
     "activeTab"
