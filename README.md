@@ -2,6 +2,14 @@
 
 This repackages the excellent [Squirt.io Speed Reading Bookmarklet](http://squirt.io) into a Chrome extension, with a new browser button to activate.
 
+#### Install Instructions:
+1. Clone repo to local system.
+2. Ensure Chrome has [Developer Mode turned on](https://developer.chrome.com/extensions/faq#faq-dev-01).
+3. From chrome://Extensions, 'Load Unpacked Extension' and select folder from step 1.
+
+-------
+
+
 # Squirt
 
 A speed reading bookmarklet.
