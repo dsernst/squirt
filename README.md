@@ -1,6 +1,6 @@
-### Update: Squirt is now covered by an Apache license! 
+### Squirt for Chrome
 
-Apologies to those PRs that got hosed by decoupling squirt.io from the bookmarklet source--resubmit and I'll be happy to engage. 
+This repackages the excellent [Squirt.io Speed Reading Bookmarklet](http://squirt.io) into a Chrome extension, with a new browser button to activate.
 
 # Squirt
 
